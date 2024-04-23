@@ -1,7 +1,7 @@
-Algorithm Visualizer
+<h1>Algorithm Visualizer</h1>
 
 This project aims to provide a visual representation of various sorting and graph traversal algorithms. Through interactive visualization, users can gain a better understanding of how these algorithms work and how they perform under different scenarios.
-Demo
+<h3>demo</h3> <a href =" https://shyampan.github.io/algorithm-visualizer"/> Click Here </a>
 
 Check out the live demo here.
 Algorithms Implemented
